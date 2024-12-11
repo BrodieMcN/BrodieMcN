@@ -5,6 +5,6 @@
 - 📫 Contact me at brodiemcneill3@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have ADHD
-<img src="https://komarev.com/ghpvc/?username=3kh0&style=flat" alt="brodiemcn" />
+<img src="https://komarev.com/ghpvc/?username=brodiemcn&style=flat" alt="brodiemcn" />
 
 
